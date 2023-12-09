@@ -1,8 +1,8 @@
 :root {
-    --cor-tema-claro: #ffe4c4; /* Amarelo claro */
+    --cor-tema-claro: #ffe4c4; 
     --cor-texto-claro: #333333;
     --cor-fundo-claro: #f0f0f0;
-    --cor-tema-escuro: #663300; /* Marrom escuro */
+    --cor-tema-escuro: #663300; 
     --cor-texto-escuro: #ffffff;
     --cor-fundo-escuro: #1a1a1a;
 }
@@ -31,12 +31,12 @@ main {
     padding: 20px;
 }
 
-/* Adicione outros estilos conforme necessário */
+
 :root {
-    --cor-tema-claro: #ffe4c4; /* Amarelo claro */
+    --cor-tema-claro: #ffe4c4; 
     --cor-texto-claro: #333333;
     --cor-fundo-claro: #f0f0f0;
-    --cor-tema-escuro: #663300; /* Marrom escuro */
+    --cor-tema-escuro: #663300; 
     --cor-texto-escuro: #ffffff;
     --cor-fundo-escuro: #1a1a1a;
 }
@@ -65,4 +65,4 @@ main {
     padding: 20px;
 }
 
-/* Adicione outros estilos conforme necessário */
+

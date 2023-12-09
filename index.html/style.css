@@ -1,0 +1,68 @@
+:root {
+    --cor-tema-claro: #ffe4c4; /* Amarelo claro */
+    --cor-texto-claro: #333333;
+    --cor-fundo-claro: #f0f0f0;
+    --cor-tema-escuro: #663300; /* Marrom escuro */
+    --cor-texto-escuro: #ffffff;
+    --cor-fundo-escuro: #1a1a1a;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--cor-fundo-claro);
+    color: var(--cor-texto-claro);
+    transition: background-color 0.5s, color 0.5s;
+}
+
+body.dark-theme {
+    background-color: var(--cor-fundo-escuro);
+    color: var(--cor-texto-escuro);
+}
+
+header {
+    background-color: var(--cor-tema-claro);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Adicione outros estilos conforme necessário */
+:root {
+    --cor-tema-claro: #ffe4c4; /* Amarelo claro */
+    --cor-texto-claro: #333333;
+    --cor-fundo-claro: #f0f0f0;
+    --cor-tema-escuro: #663300; /* Marrom escuro */
+    --cor-texto-escuro: #ffffff;
+    --cor-fundo-escuro: #1a1a1a;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--cor-fundo-claro);
+    color: var(--cor-texto-claro);
+    transition: background-color 0.5s, color 0.5s;
+}
+
+body.dark-theme {
+    background-color: var(--cor-fundo-escuro);
+    color: var(--cor-texto-escuro);
+}
+
+header {
+    background-color: var(--cor-tema-claro);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Adicione outros estilos conforme necessário */
